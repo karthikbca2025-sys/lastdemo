@@ -4,3 +4,7 @@ c=a+b
 print(c)
 print("the value of a is",a)
 print("the value of b is",b)
+d=a*b
+print(d)
+e=a/b
+print(e)
